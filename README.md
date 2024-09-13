@@ -76,7 +76,7 @@ Tab:AddSlider({
 	Min = 0,
 	Max = 20,
 	Default = 5,
-	Color = Color3.fromRGB(66,78,133),
+	Color = Color3.fromRGB(183, 1, 1),
 	Increment = 1,
 	ValueName = "bananas",
 	Callback = function(Value)
